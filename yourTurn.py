@@ -3,7 +3,7 @@
 
 #step 0: import correct packages (ive imported matplotlib, but you need one other package!)
 import matplotlib.pyplot as plt
-import numpy as np 
+<another import is needed here> 
 #step 1: get input data
 xData = np.arange(10) 
 #step 2: get output data (you do this!)
@@ -18,4 +18,4 @@ plt.plot(xData, yData)
 #scale
 #figure size 
 #title 
-#
+#changing base equation (can explore many different functions in numpy!)
